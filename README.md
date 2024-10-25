@@ -1,1 +1,3 @@
-# ML-Reinforcement-Learning-templates
+# ML REINFORCEMENT LEARNING TEMPLATES
+- Upper Confidence Bounding
+- Thompson Sampling
